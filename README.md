@@ -156,6 +156,8 @@ for result in search_results:
     print("----------------------")
 ```
 ### Output:
+![image](https://github.com/Archana2003-Jkumar/WDM_EXP6/assets/93427594/4a8da39c-966e-4d3c-84e8-cc97cfae6708)
+![image](https://github.com/Archana2003-Jkumar/WDM_EXP6/assets/93427594/ecefc0b2-3c63-4c24-a1c9-4c8539347466)
 
 ### Result:
 Thus Information Retrieval Using Vector Space Model is done successfully.
